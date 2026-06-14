@@ -1,9 +1,12 @@
 # Binary
 keepalive
-keepalive-linux-amd64
-keepalive-linux-arm64
+keepalive-linux-*
 keepalive-windows.exe
 keepalive-darwin
+
+# Go module
+go.mod
+go.sum
 
 # Go
 *.exe
